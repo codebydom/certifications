@@ -3,8 +3,6 @@
 
 An up-to-date list of all of my Certifications
 
-
-
 #### Data Science Professional Certificate - HarvardX
 ![Data Science Professional Certificate - HarvardX](ProfessionalCertificateDataScience.jpg)
 #### Machine Learning Certificate - HarvardX
@@ -31,4 +29,5 @@ An up-to-date list of all of my Certifications
 ![Hibernate and Java Persistence API (JPA) Fundamentals Certificate - Udemy](java-cert.jpeg)
 #### The Complete Cyber Security Course: Hackers Exposed Certificate - Udemy
 ![The Complete Cyber Security Course: Hackers Exposed Certificate - Udemy](cyber-sec.jpeg)
+
 
