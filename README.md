@@ -1,5 +1,5 @@
 
-# Certifications
+# [Certifications](https://codebydom.github.io/certifications/)
 
 An up-to-date list of all of my Certifications
 
